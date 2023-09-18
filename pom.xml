@@ -67,7 +67,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>Assignment</projectName>
+                            <projectName>CAMPSPOTAutomation</projectName>
                             <outputDirectory>CucumberReport</outputDirectory>
                         </configuration>
                     </execution>
